@@ -5,7 +5,7 @@
 - `parameters.m` - MATLAB script for tuning transformers parameters
 
 ## Requirements
-- MATLAB R2022b or later
+- MATLAB R2017a or later
 - Simulink Toolbox
 
 ## How to Run
