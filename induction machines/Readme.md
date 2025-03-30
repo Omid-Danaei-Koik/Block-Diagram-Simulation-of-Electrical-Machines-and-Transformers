@@ -10,6 +10,9 @@
 - Simulink Toolbox
 
 ## How to Run
-1. Open `Induction_Machine.slx` in MATLAB.
-2. Click "Run" to start the simulation.
-3. Analyze the results in Scope blocks.
+1. Open `data1.m` or `data2.m` or `data3.m` in MATLAB.
+2. run the script file
+3. Open `Induction_Machine.slx` in MATLAB.
+4. Click "Run" to start the simulation.
+5. Analyze the results in Scope blocks.
+
